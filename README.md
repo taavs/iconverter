@@ -28,6 +28,7 @@ app.js
 When finished all the bmp icons should be at the dist folder
 
 ### TO DO
+* Allow more extensions to be used, and check invalid extensions.
 * Accept user input for sizing the output icon
 * Use iconfinder to search and download icons (via user input)
 * Push this to NPM
